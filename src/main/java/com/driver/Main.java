@@ -7,7 +7,9 @@ public static void main(String[]args){
     int ans =p.product(10,20);
 
     int ans1=p.product(1,2,3);
+
     double ans2 =p.product(1.0,2.0);
+
     System.out.print(ans+" "+ans1+" "+ans2);
 }
 public static class Product{
