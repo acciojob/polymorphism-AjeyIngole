@@ -12,7 +12,8 @@ public static void main(String[]args){
 
     System.out.print(ans+" "+ans1+" "+ans2);
 }
-public static class Product{
+public static class Product
+{
     public int product(int x, int y){
         return x*y;
     }
